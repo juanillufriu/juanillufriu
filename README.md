@@ -79,7 +79,7 @@
   <a href="https://stackoverflow.com/users/29182922/juan-ignacio-llufriu?tab=profile" > 
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
   </a>
-  <a href="https://t.me/juanillufriu"
+  <a href="https://t.me/juanillufriu"> 
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
 </div>
