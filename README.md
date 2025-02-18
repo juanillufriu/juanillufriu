@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍💻 Creating bugs since 2020<br>📚 I'm currently learning Python, Java and React.<br>🎯 Goals: Solve business and enterprise problems with Software.</p>
+<p align="left">⚙ Solving problems since 2020.<br>📚 I'm currently learning Python, Java and React.<br>🎯 Goals: Solve business and enterprise problems with Software.</p>
 
 ###
 
