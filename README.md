@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello, I am Juan Ignacio Llufriu, Programming Technician graduated from Instituto Técnico Adrián P. Urquía (ITAPU) in 2023.<br><br>Currently, I am studying Information Systems Engineering at Universidad Tecnológica Nacional. Along with this, I study languages ​​daily to perfect my linguistic skills.</p>
+<p align="left">Hello, I'm Juan Ignacio Llufriu, a Systems Engineering student at UTN (Universidad Tecnológica Nacional) and a Programming Technician.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">⚙ Solving problems since 2020.<br>📚 I'm currently learning Python, Java and React.<br>🎯 Goals: Solve business and enterprise problems with Software.</p>
+<p align="left">⚙ Solving problems since 2020.<br>📚 I'm currently learning Data Analytics (Python, SQL, R, Power BI, Excel, etc).<br>🎯 Goals: Solve business and enterprise problems with Software.</p>
 
 ###
 
