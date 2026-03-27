@@ -93,14 +93,14 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🏆 Sports Club Landing Page</h4>
-      <p>Desarrollo de una solución digital integral con sistema de pagos y tienda para organizaciones deportivas.</p>
-      <code>React</code> <code>Tailwind</code> <code>Node.js</code>
+      <h4>📊 Blinkit Sales Analysis | End-to-End BI Project / Análisis de Ventas de Blinkit | Proyecto de Inteligencia Empresarial Integral</h4>
+      <p>Proyecto integral de Business Intelligence. Limpieza de datos, ETL y análisis interactivo de ventas minoristas mediante Excel y Power BI.</p>
+      <code>Excel</code> <code>PowerBI</code> <code>Data Analysis</code>
     </td>
     <td width="50%" valign="top">
-      <h4>📊 Data Analytics Textbook</h4>
-      <p>Repositorio con los ejemplos y scripts de Python del libro de Análisis de Datos.</p>
-      <code>Python</code> <code>Pandas</code> <code>Jupyter</code>
+      <h4>🧠 Engineering Knowledge Base | Mi Base de Conocimiento</h4>
+      <p>Repositorio estructurado para notas académicas, resúmenes de libros y análisis técnicos en Ingeniería de Sistemas de Información.</p>
+      <code>Books</code>
     </td>
   </tr>
 </table>
