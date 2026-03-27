@@ -83,7 +83,7 @@
 <h2 align="left">GitHub Stats</h2>
 
 <p align="left">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=juanillufriu&theme=transparent&border_radius=4" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=juanillufriu&theme=github-dark-blue&hide_border=true&border_radius=4&card_width=800&card_height=200" alt="GitHub Streak" /></a>
 </p>
 
 ---
