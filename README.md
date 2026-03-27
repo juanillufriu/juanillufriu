@@ -88,6 +88,25 @@
 
 ---
 
+<h2 align="left">🚀 Featured Projects</h2>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏆 Sports Club Landing Page</h4>
+      <p>Desarrollo de una solución digital integral con sistema de pagos y tienda para organizaciones deportivas.</p>
+      <code>React</code> <code>Tailwind</code> <code>Node.js</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📊 Data Analytics Textbook</h4>
+      <p>Repositorio con los ejemplos y scripts de Python del libro de Análisis de Datos.</p>
+      <code>Python</code> <code>Pandas</code> <code>Jupyter</code>
+    </td>
+  </tr>
+</table>
+
+---
+
 <h2 align="left">Social Media</h2>
 
 <div align="left">
