@@ -20,7 +20,7 @@
 
 #### 🌐 Languages & Backend
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -82,7 +82,7 @@
 
 <h2 align="left">GitHub Stats</h2>
 
-<p align="left">
+<p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=juanillufriu&theme=github-dark-blue&hide_border=true&border_radius=4&card_width=800&card_height=200" alt="GitHub Streak" /></a>
 </p>
 
