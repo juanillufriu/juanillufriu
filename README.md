@@ -11,7 +11,7 @@
 
 - ⚙️ **Solving problems** since 2020.
 - 🎓 **Education:** Currently in my 3rd year of Information Systems Engineering.
-- 📚 **Learning Path:** Currently deepening my knowledge in **Data Analytics** (Python, SQL, R, Julia, Power BI, Excel).
+- 📚 **Learning Path:** Currently deepening my knowledge in **Data Analytics** (Python, SQL, R, Power BI, Excel).
 - 🎯 **Goals:** Solve business and enterprise problems with Software.
 
 ---
